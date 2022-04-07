@@ -1,10 +1,10 @@
 # Alley
 
-The source code of "Combining Sampling and Synopses with Worst-Case Optimal Runtime and Quality Guarantees for Graph Pattern Cardinality Estimation" (SIGMOD 2021, [link](https://dl.acm.org/doi/10.1145/3448016.3457246)).
+The source code of "Combining Sampling and Synopses with Worst-Case Optimal Runtime and Quality Guarantees for Graph Pattern Cardinality Estimation" (SIGMOD 2021, [link](https://dl.acm.org/doi/10.1145/3448016.3457246)) on top of G-CARE ([link](https://github.com/yspark-dblab/gcare)).
 
 Technical Paper ([link](https://arxiv.org/abs/2103.13681)).
 
-Please see the detailed instructions of running G-CARE ([link](https://github.com/yspark-dblab/gcare)).
+Please see the detailed instructions of running G-CARE first.
 
 
 ## A short README
